@@ -1,1 +1,32 @@
 theme: jekyll-theme-minimal
+
+# Site Author
+author:
+  name             : "TAM Yu Fung"
+  avatar           : 
+  bio              : "Data Analyst | Project Manager"
+  location         : "Singapore"
+  email            : "yufung.github@outlook.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "yufung"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "tamyufung"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :

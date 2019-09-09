@@ -1,32 +1,10 @@
-theme: jekyll-theme-minimal
+title: TAM Yu Fung
+logo:
+description:
+  Being a data analyst with 5+ years project management experience enables me to analyse, build and deploy machine learning models within given constraints. I seek to shorten the cycle time of analytics development in alignment with business goals, so that individuals and businesses can make better and faster decisions. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/tamyufung/">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="https://github.com/yufung">View My GitHub Profile</a>
 
-# Site Author
-author:
-  name             : "TAM Yu Fung"
-  avatar           : 
-  bio              : "Data Analyst | Project Manager"
-  location         : "Singapore"
-  email            : "yufung.github@outlook.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "yufung"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "tamyufung"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+theme: jekyll-theme-minimal

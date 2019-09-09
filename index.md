@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Recent Projects
 
-You can use the [editor on GitHub](https://github.com/yufung/yufung.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Hawker Food AI
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I created an image classifier that can recognise Singapore hawker food. My goal is to make photo archiving efforts for local food heritage easier and faster.
 
-### Markdown
+[GitHub Repository](https://github.com/yufung/dsi-capstone)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Predict West Nile Virus
 
-```markdown
-Syntax highlighted code block
+I collaborated in a team of 3 to predict outbreaks of West Nile virus in mosquitos across Chicago. Our goal is to propose a cost-effective plan for pesticide deployment.
 
-# Header 1
-## Header 2
-### Header 3
+[GitHub Repository](https://github.com/yufung/Project-4-West-Nile-Virus)
 
-- Bulleted
-- List
+### Subreddit Classifier
 
-1. Numbered
-2. List
+Using text classification, I created a model that routes advice-seeking Reddit posts to either /r/personalfinance or /r/relationship_advice. My goal is to elicit faster and better replies by routing new posts to the most appropriate subreddit.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yufung/yufung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GitHub Repository](https://github.com/yufung/dsi-capstone)

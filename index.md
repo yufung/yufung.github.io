@@ -16,4 +16,4 @@ I collaborated in a team of 3 to predict outbreaks of West Nile virus in mosquit
 
 Using text classification, I created a model that classifies advice-seeking Reddit posts to either /r/personalfinance or /r/relationship_advice. My goal is to elicit faster and better replies by routing new posts to the most appropriate subreddit.
 
-[GitHub Repository](https://github.com/yufung/dsi-project-3) | [Web App Demo](https://subreddit-classifier.herokuapp.com)
+[GitHub Repository](https://github.com/yufung/dsi-project-3) \| [Web App Demo](https://subreddit-classifier.herokuapp.com)

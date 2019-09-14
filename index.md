@@ -4,7 +4,7 @@
 
 I created an image classifier that can recognise Singapore hawker food. My goal is to make photo archiving efforts for local food heritage easier and faster.
 
-[GitHub Repository](https://github.com/yufung/dsi-capstone)
+[GitHub Repository](https://github.com/yufung/dsi-capstone) \| [Web App Demo](http://18.140.61.185/)
 
 ### Predict West Nile Virus
 

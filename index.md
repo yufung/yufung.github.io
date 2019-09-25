@@ -4,7 +4,7 @@
 
 I created an image classifier that can recognise Singapore hawker food. My goal is to make photo archiving efforts for local food heritage easier and faster.
 
-[GitHub Repository](https://github.com/yufung/dsi-capstone) \| [Presentation Slides](https://docs.google.com/presentation/d/1H2IDRye7ZxFESfMldawTqsCMVw040iGScZTaWIG8HK4/edit?usp=sharing) \| [Web App Demo](http://18.140.61.185/)
+[GitHub Repository](https://github.com/yufung/dsi-capstone) \| [Presentation Slides](https://docs.google.com/presentation/d/1H2IDRye7ZxFESfMldawTqsCMVw040iGScZTaWIG8HK4/edit?usp=sharing) \| [Web App Demo](http://hawkai.tamyufung.com/)
 
 ### Subreddit Classifier
 

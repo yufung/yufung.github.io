@@ -1,5 +1,17 @@
 ## Recent Projects
 
+### Mobile Games A/B Testing with Cookie Cats 
+
+I analyzed the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40. Using chi-squared test and bayesian analysis, I analyzed the impact on player retention.
+
+[GitHub Repository](https://github.com/yufung/ab-testing-cookie-cats)
+
+### ACME Widget Failure Prediction
+
+I developed binary classification models to predict failures of widgets and examine feature importances to identify strong predictors of failure. My findings can help ACME accelerate quality issue investigations to develop failure prevention strategies. Through fewer warranty claims and quality recalls, ACME can benefit from reduced operating costs.
+
+[GitHub Repository](https://github.com/yufung/widget-failure-prediction)
+
 ### Hawker Food AI
 
 I created an image classifier that can recognise Singapore hawker food. My goal is to make photo archiving efforts for local food heritage easier and faster.

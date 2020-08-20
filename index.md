@@ -16,7 +16,7 @@ I developed binary classification models to predict failures of widgets and exam
 
 I created an image classifier that can recognise Singapore hawker food. My goal is to make photo archiving efforts for local food heritage easier and faster.
 
-[GitHub Repository](https://github.com/yufung/dsi-capstone) \| [Presentation Slides](https://docs.google.com/presentation/d/1H2IDRye7ZxFESfMldawTqsCMVw040iGScZTaWIG8HK4/edit?usp=sharing) \| [Web App Demo](https://hawkerai.tamyufung.com/) \| [Telegram bot](https://telegram.me/hawkerfood_bot)
+[GitHub Repository](https://github.com/yufung/dsi-capstone) \| [Presentation Slides](https://docs.google.com/presentation/d/1H2IDRye7ZxFESfMldawTqsCMVw040iGScZTaWIG8HK4/edit?usp=sharing) \| [Web App Demo](https://hawkerai.yftam.com/) \| [Telegram bot](https://telegram.me/hawkerfood_bot)
 
 ### Subreddit Classifier
 

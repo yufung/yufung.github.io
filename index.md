@@ -22,7 +22,7 @@ I created an image classifier that can recognise Singapore hawker food. My goal 
 
 Using text classification, I created a model that classifies advice-seeking Reddit posts to either /r/personalfinance or /r/relationship_advice. My goal is to elicit faster and better replies by routing new posts to the most appropriate subreddit.
 
-[GitHub Repository](https://github.com/yufung/dsi-project-3) \| [Web App Demo](https://subreddit-classifier.herokuapp.com)
+[GitHub Repository](https://github.com/yufung/dsi-project-3) \| [Web App Demo](https://subreddit-classifier.onrender.com/)
 
 ### Predict West Nile Virus
 

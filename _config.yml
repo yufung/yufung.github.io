@@ -11,11 +11,11 @@ title_separator: "-"
 name: "Tam Yu Fung"
 description: "Recent projects by Tam Yu Fung"
 url: "https://yufung.github.io"
-logo: "https://raw.githubusercontent.com/yufung/yufung.github.io/master/avatar.jpg"
+logo: "https://raw.githubusercontent.com/yufung/yufung.github.io/master/assets/images/avatar.jpg"
 
 author:
   name: "Tam Yu Fung"
-  avatar: "https://raw.githubusercontent.com/yufung/yufung.github.io/master/avatar.jpg"
+  avatar: "https://raw.githubusercontent.com/yufung/yufung.github.io/master/assets/images/avatar.jpg"
   bio: "Data analytics professional with global project management experience. I am excited about putting together data solutions that generate actionable insights, helping individuals and businesses make optimal decisions."
   links:
     - label: "GitHub"

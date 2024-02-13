@@ -5,4 +5,5 @@ description:
   <br><br>
   <a href="https://www.linkedin.com/in/tamyufung/">View My LinkedIn Profile</a>
 
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"

@@ -9,6 +9,8 @@ title: "Tam Yu Fung"
 title_separator: "-"
 name: "Tam Yu Fung"
 description: "Recent projects by Tam Yu Fung"
+url: "https://yufung.github.io/"
+logo: "https://avatars3.githubusercontent.com/u/4027357"
 
 author:
   name: "Tam Yu Fung"
@@ -20,6 +22,8 @@ author:
       url: "https://www.linkedin.com/in/tamyufung/"
 
 defaults:
+  - scope:
+      path: ""
   - values:
       layout: single
       author_profile: true

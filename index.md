@@ -1,4 +1,4 @@
-Recent Projects
+title: "Recent Projects"
 
 ### GPT-2 the Joker
 

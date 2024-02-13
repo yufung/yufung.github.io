@@ -2,11 +2,19 @@
 
 ### GPT-2 the Joker
 
+<p align="center">
+<img align="middle" src="https://github.com/yufung/gpt2-the-joker/blob/main/assets/example.png" alt="Screenshot of GPT-2 the Joker web app" />
+</p>
+
 I created a bot which uses GPT-2 to generate question and answer jokes based on user input. A pretrained GPT-2 tokenizer and language model from the Hugging Face was fine-tuned on the jokes dataset from Kaggle. To serve the model, FastAPI with NGINX Unit was used for API and front-end service, Celery for handling task scheduling, and Redis as backend and broker for Celery.
 
 [GitHub Repository](https://github.com/yufung/gpt2-the-joker) \| [Web App Demo](https://gpt2-the-joker.tamyufung.com/)
 
 ### Hawker Food AI
+
+<p align="center">
+<img align="middle" src="https://raw.githubusercontent.com/yufung/yufung.github.io/master/assets/images/hawkerai.png" alt="Screenshot of Hawker Food AI web app" />
+</p>
 
 I created an image classifier that can recognise Singapore hawker food. My goal is to make photo archiving efforts for local food heritage easier and faster.
 

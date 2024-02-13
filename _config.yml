@@ -16,7 +16,7 @@ author:
   bio: "Data analytics professional with global project management experience. I am excited about putting together data solutions that generate actionable insights, helping individuals and businesses make optimal decisions."
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/tamyufung/"
 
 defaults:

@@ -1,5 +1,3 @@
-## Recent Projects
-
 ### GPT-2 the Joker
 
 I created a bot which uses GPT-2 to generate question and answer jokes based on user input. A pretrained GPT-2 tokenizer and language model from the Hugging Face was fine-tuned on the jokes dataset from Kaggle. To serve the model, FastAPI with NGINX Unit was used for API and front-end service, Celery for handling task scheduling, and Redis as backend and broker for Celery.

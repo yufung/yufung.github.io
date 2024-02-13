@@ -18,6 +18,9 @@ author:
   avatar: "https://raw.githubusercontent.com/yufung/yufung.github.io/master/avatar.jpg"
   bio: "Data analytics professional with global project management experience. I am excited about putting together data solutions that generate actionable insights, helping individuals and businesses make optimal decisions."
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yufung"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/tamyufung/"
@@ -29,3 +32,6 @@ defaults:
   - values:
       layout: single
       author_profile: true
+
+atom_feed:
+  hide: true

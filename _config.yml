@@ -22,10 +22,12 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/tamyufung/"
 
+titles_from_headings:
+  strip_title: true
+
 defaults:
   - scope:
       path: ""
   - values:
       layout: single
       author_profile: true
-      strip_title: true

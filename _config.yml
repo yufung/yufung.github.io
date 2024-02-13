@@ -3,6 +3,7 @@ minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 
 locale: "en-US"
 title: "Tam Yu Fung"
